@@ -2,6 +2,9 @@
 ## What is Chatify ?
  Chatify is an advanced AI-powered tool that enables you to interact seamlessly with any website or document (including PDFs) using natural language. Whether you're looking to extract specific data, automate tasks, or gain insights, Chatify makes it possible with ease. Best of all, it's free and accessible to everyone.
 
+## Video Link (Vimeo) 
+https://vimeo.com/1025332074?share=copy
+
 ## Inspiration
 I first thought of creating a tool using the api for students and teachers that can generate multiple choice questions for the students to practice with from a given pdf or csv file. I also created a prototype of it at https://summarizepdf.vercel.app/ but while creating the backend I ran into various problems of adding plugins and various other things and It came into my mind how much data this students or teachers are going to share with multiple models which are not secure. This is the repository link of the prototype https://github.com/Gitstar-OC/one made for students and teachers before 4 days.
 
