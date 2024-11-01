@@ -31,3 +31,4 @@ Install dependencies with bun.
   bun add / npm install
   bun run dev / npm run dev
 ```
+---
