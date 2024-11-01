@@ -51,7 +51,7 @@ This is the best thing I have created within this short amount of time and this 
 Various things like how to use supabase, upstash, particular concepts in this particular technologies, used google authentication for the first time in this project. 
 
 ## What's next for Chatify
-More development in this particular project and to make it the leading ai tool for everyone which will be safer, open source and free for everyone along with privacy on them. Everyone will be able to host it on their own servers and modify it so that no one can access their data. Will also add a layer of cloud so that the model cannot create a persona about the user. 
+If I win this hackathon, more development in this particular project and to make it the leading ai tool for everyone which will be safer, open source and free for everyone along with privacy on them. Everyone will be able to host it on their own servers and modify it so that no one can access their data. Will also add a layer of cloud so that the model cannot create a persona about the user. 
 
 
 ## API keys to test it has been given to sent to the manager (Yash). If you don't have it then please mail me on 
