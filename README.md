@@ -2,6 +2,8 @@
 
 This is the hackathon project of [OC](https://devpost.com/Gitstar-OC) submitted [here](https://devpost.com/software/chatify-pd39qn?) 
 
+> Some models will be `deprecated` as I have use nextjs 14.25 for this due to react 19, nextjs 15 `legacy-peer-deps-errors` for most of the packages, don't update your dependencies. It will work fine 
+
 ## Environment Variables
 To run this project, you will need to rename .env.example file to .env.local and add the keys provided. 
 **The API keys has been given as a txt file**
