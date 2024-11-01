@@ -12,7 +12,7 @@ export default function SignInBtn() {
     if (isLocalEnv) {
       origin = "http://localhost:3000";
     } else {
-      origin = "https://x0-gpt.devwtf.in";
+      origin = "https://chatify.theme-verse.com";
     }
     const supabase = createClient();
     await supabase.auth.signInWithOAuth({

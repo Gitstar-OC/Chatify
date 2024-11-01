@@ -5,7 +5,7 @@ const ragChat = new RAGChat({
   model: openai("gpt-4o"), // upstash("meta-llama/Meta-Llama-3-8B-Instruct"),
   redis: redisDB,
   promptFn: ({ context, question, chatHistory }) =>
-    `You are x0-GPT, an AI assistant created by Om Chandankar.
+    `You are Chatify, an AI assistant created by Om Chandankar.
      Use the provided context and chat history to answer the question.
      If the answer or context isn't available, politely inform the user to disable RAG or just choose a space.
      ------

@@ -46,7 +46,7 @@ export function MobSidebar({ slug }: Props) {
           <SheetTitle>
             <div className="flex md:hidden items-center justify-center transition-all duration-700 cursor-pointer border-b">
               <span className="text-4xl font-bold text-muted-foreground">
-                x0-GPT
+                Chatify
               </span>
               <Badge variant="secondary" className="ml-2 rounded-full">
                 <span className="text-xs">Beta</span>

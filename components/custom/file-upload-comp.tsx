@@ -120,7 +120,7 @@ export default function FileUploadComp({ disabled }: { disabled: boolean }) {
           setPath(filePath);
         }
         const { error } = await supabase.storage
-          .from("x0-gpt") // Replace with your Supabase Storage bucket name
+          .from("oc_bucket") // Replace with your Supabase Storage bucket name
           .upload(filePath, file);
 
         if (error) {

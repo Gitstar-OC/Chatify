@@ -475,7 +475,7 @@ const deleteResource = async (id: string) => {
 
 const getFileUrl = async (filepath: string) => {
   const { data } = await supabase.storage
-    .from("x0-gpt")
+    .from("oc_bucket")
     .createSignedUrl(filepath, 604800);
 
   if (data) {
@@ -489,7 +489,7 @@ const getFileUrl = async (filepath: string) => {
 
 const deleteFile = async (filePath: string) => {
   const { data, error } = await supabase.storage
-    .from("x0-gpt")
+    .from("oc_bucket")
     .remove([filePath]);
 
   if (error) {

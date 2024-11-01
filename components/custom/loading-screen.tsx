@@ -6,7 +6,7 @@ const LoadingScreen = () => {
       <div className="flex flex-col items-center">
         {/* <div className="animate-spin rounded-full h-24 w-24 border-b-2 border-white"></div> */}
         <p className="text-2xl font-bold text-muted-foreground">
-          x0-GPT is syncing...
+          Chatify is syncing...
         </p>
       </div>
     </div>

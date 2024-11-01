@@ -15,7 +15,7 @@ export function FeaturesSection() {
     {
       title: "Free for Everyone",
       description:
-        "No barriers, no fees. x0-GPT is a free tool accessible to anyone, anywhere.",
+        "No barriers, no fees. Chatify is a free tool accessible to anyone, anywhere.",
       icon: <IconCurrencyDollar />,
     },
     {
@@ -56,7 +56,7 @@ export function FeaturesSection() {
     {
       title: "Privacy First",
       description:
-        "Your data is yours. x0-GPT ensures secure interactions, keeping your information safe and encrypted.",
+        "Your data is yours. Chatify ensures secure interactions, keeping your information safe and encrypted.",
       icon: <IconSpy />,
     },
   ];
