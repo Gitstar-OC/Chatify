@@ -33,7 +33,7 @@ export default function Home() {
         </div>
         <Link href="/gateway">
           <Button size="lg" className="mt-10">
-            Get Started for $0 <ChevronRight className="h-5 w-5 ml-1" />
+            Get Started <ChevronRight className="h-5 w-5 ml-1" />
           </Button>
         </Link>
       </div>
